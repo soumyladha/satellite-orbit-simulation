@@ -1,0 +1,16 @@
+Semi_major_axis_(m) 26559704.69016551
+Eccentricty_of_Orbit   0.00183678
+Inclination_(degrees)  55.14020000
+Right_ascension_of_the_ascending_node_(deg) -119.88051650
+Argument_of_perigee_(degrees): -72.01559543
+Mean/True_anomaly_(degrees): -53.57390642
+flag=0_ECEF_&_flag=1_ECI:   0.00000000
+Julian_date 2451544.50000000
+Delta_UT1   0.00000000
+x_polar   0.00000000
+y_polar   0.00000000
+TT-UTC   0.00000000
+Step_size 100.00000000
+total_time(hr)  24.00000000
+total_time(min)   0.00000000
+total_time(sec)   0.00000000
